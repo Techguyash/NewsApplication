@@ -1,7 +1,10 @@
 
 
------------Author : Techguyash---------------------
-
+---------------------------------------------------
+Author    : Techguyash
+email     : techguyash@gmail.com
+AppName   : &Feeds
+---------------------------------------------------
 -This ia a news application works on JSP
 -The schema for this application is included
 ---------------------------------------------------
