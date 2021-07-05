@@ -1,0 +1,201 @@
+@charset "ISO-8859-1";
+body{
+    font-weight: 500;
+    font-family:'Montserrat', sans-serif;
+}
+
+.navbar{
+    background-color: #24252A;
+    color: white;
+}
+
+.navbar-brand,.footer-logo{
+    font-weight:700;
+    font-size: 1.5rem;
+}
+
+.search{
+    outline-color: green;
+}
+.form-main{
+    background-color: #1F2833 !important;
+    color: white !important;
+  
+}
+.header-content{
+    background-color: #1F2833;
+   
+}
+.post-badge>a{ 
+    height: 20px;
+    background-color: #080c10;
+    color: white;
+    font-size: 0.8rem;
+}
+.badge-cat{
+    width: 60px;
+}
+.badge-date{
+    width: 100px;
+}
+
+.header-content-post{
+    position: relative;
+
+}
+
+h3{
+    font-size: 15px;
+}
+.title{
+    margin-left: 3px;;
+    padding:10px;
+    background: #c00;
+    color: #fff;
+    font-weight: 800;
+    font-size: 20px;
+    width: 170px;
+    margin: 9px;
+   
+}
+
+
+.header-content-post-content{
+    position: absolute;
+    bottom: 20px;
+    color: white;
+}
+
+.header-content-post-content img{
+    border: 2px solid #66FCF1;
+}
+
+.post-text{
+    background-color: black;
+   }
+
+   .navbar-nav > li > .dropdown-menu ,.dropdown-item {
+        background-color: #31354b;
+        color: white;
+    }
+
+/* main content starts*/
+.main-content{
+    background-color: #31354b;
+    color: white;
+   
+   
+}
+
+
+  
+ 
+
+
+.news-post{
+    background-color: #343a49 ;
+}
+
+.news-post .col-sm-3{
+    border-right: 3px solid red;
+}
+
+.social{
+    background-color: red;
+    font-size: 1.2rem;
+    border: 0.1mm solid white;
+    margin-right: 1px;
+}
+.social-links{
+    font-size: 19px;
+    margin-bottom: 10px;
+    
+}
+
+.social-links>a:hover{
+    background-color: white;
+    color: blueviolet;
+}
+.social-hover:hover{
+    background-color: white;
+    color: red;
+}
+.secondary-color{
+    background-color: rgb(201, 19, 19);
+    color: black;
+}
+.secondary-color:hover{
+    background-color: white;
+    color: red;
+}
+
+.news-post p{
+    font-size: 14px;
+}
+.news-post h3{
+    font-size: 24px;
+}
+
+.publisher p{
+    font-size: 13px;
+}
+
+.publisher h6{
+    font-size: 16px;
+}
+
+
+.aside-heading{
+    border-left: 3px solid red;
+    margin-bottom: 10px;
+}
+
+.badge{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    width: auto;
+}
+
+.badge>a{
+    margin-left: 0.5rem;
+    display: inline-block;
+    margin: 0.2rem;
+    padding: 0.5rem;
+    background-color: red;
+    color: white;
+}
+.badge>a:hover{
+    background-color: white;
+    color: red;
+}
+
+/*footer*/
+.footer{
+    background-color: #24252A;
+    color: white;   
+}
+
+.news-post:hover{
+    transform: scale(0.9); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+
+}
+
+.footer a{
+    text-decoration: none;
+    
+}
+
+/*page nation effects*/
+.page-number{
+    color: white !important;
+    background-color: red !important;
+}
+
+.page-number:hover{
+    color: red !important;
+    background-color: white !important;
+}
+
+
+
+

@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+.admin-content{
+    color: white;
+    text-align: center;
+    margin-top: 10rem;
+}
+
+body{
+    background-color: #1F2833 !important;
+}
+
+ .navbar-nav > li > .dropdown-menu ,.dropdown-item {
+        background-color: #31354b;
+        color: white;
+    }
